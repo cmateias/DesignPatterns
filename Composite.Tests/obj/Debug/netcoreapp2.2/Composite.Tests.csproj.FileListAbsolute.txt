@@ -1,0 +1,17 @@
+C:\Users\cmateias\source\repos\DesignPatterns\Composite.Tests\bin\Debug\netcoreapp2.2\NUnit3.TestAdapter.dll
+C:\Users\cmateias\source\repos\DesignPatterns\Composite.Tests\bin\Debug\netcoreapp2.2\NUnit3.TestAdapter.pdb
+C:\Users\cmateias\source\repos\DesignPatterns\Composite.Tests\bin\Debug\netcoreapp2.2\nunit.engine.netstandard.dll
+C:\Users\cmateias\source\repos\DesignPatterns\Composite.Tests\bin\Debug\netcoreapp2.2\Composite.Tests.deps.json
+C:\Users\cmateias\source\repos\DesignPatterns\Composite.Tests\bin\Debug\netcoreapp2.2\Composite.Tests.runtimeconfig.json
+C:\Users\cmateias\source\repos\DesignPatterns\Composite.Tests\bin\Debug\netcoreapp2.2\Composite.Tests.runtimeconfig.dev.json
+C:\Users\cmateias\source\repos\DesignPatterns\Composite.Tests\bin\Debug\netcoreapp2.2\Composite.Tests.dll
+C:\Users\cmateias\source\repos\DesignPatterns\Composite.Tests\obj\Debug\netcoreapp2.2\Composite.Tests.csprojAssemblyReference.cache
+C:\Users\cmateias\source\repos\DesignPatterns\Composite.Tests\obj\Debug\netcoreapp2.2\Composite.Tests.csproj.CoreCompileInputs.cache
+C:\Users\cmateias\source\repos\DesignPatterns\Composite.Tests\obj\Debug\netcoreapp2.2\Composite.Tests.AssemblyInfoInputs.cache
+C:\Users\cmateias\source\repos\DesignPatterns\Composite.Tests\obj\Debug\netcoreapp2.2\Composite.Tests.AssemblyInfo.cs
+C:\Users\cmateias\source\repos\DesignPatterns\Composite.Tests\bin\Debug\netcoreapp2.2\Composite.Tests.pdb
+C:\Users\cmateias\source\repos\DesignPatterns\Composite.Tests\bin\Debug\netcoreapp2.2\Composite.dll
+C:\Users\cmateias\source\repos\DesignPatterns\Composite.Tests\bin\Debug\netcoreapp2.2\Composite.pdb
+C:\Users\cmateias\source\repos\DesignPatterns\Composite.Tests\obj\Debug\netcoreapp2.2\Composite.Tests.csproj.CopyComplete
+C:\Users\cmateias\source\repos\DesignPatterns\Composite.Tests\obj\Debug\netcoreapp2.2\Composite.Tests.dll
+C:\Users\cmateias\source\repos\DesignPatterns\Composite.Tests\obj\Debug\netcoreapp2.2\Composite.Tests.pdb

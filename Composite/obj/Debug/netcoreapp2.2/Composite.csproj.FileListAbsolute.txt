@@ -1,0 +1,11 @@
+C:\Users\cmateias\source\repos\DesignPatterns\Composite\bin\Debug\netcoreapp2.2\Composite.deps.json
+C:\Users\cmateias\source\repos\DesignPatterns\Composite\bin\Debug\netcoreapp2.2\Composite.runtimeconfig.json
+C:\Users\cmateias\source\repos\DesignPatterns\Composite\bin\Debug\netcoreapp2.2\Composite.runtimeconfig.dev.json
+C:\Users\cmateias\source\repos\DesignPatterns\Composite\bin\Debug\netcoreapp2.2\Composite.dll
+C:\Users\cmateias\source\repos\DesignPatterns\Composite\bin\Debug\netcoreapp2.2\Composite.pdb
+C:\Users\cmateias\source\repos\DesignPatterns\Composite\obj\Debug\netcoreapp2.2\Composite.csprojAssemblyReference.cache
+C:\Users\cmateias\source\repos\DesignPatterns\Composite\obj\Debug\netcoreapp2.2\Composite.csproj.CoreCompileInputs.cache
+C:\Users\cmateias\source\repos\DesignPatterns\Composite\obj\Debug\netcoreapp2.2\Composite.AssemblyInfoInputs.cache
+C:\Users\cmateias\source\repos\DesignPatterns\Composite\obj\Debug\netcoreapp2.2\Composite.AssemblyInfo.cs
+C:\Users\cmateias\source\repos\DesignPatterns\Composite\obj\Debug\netcoreapp2.2\Composite.dll
+C:\Users\cmateias\source\repos\DesignPatterns\Composite\obj\Debug\netcoreapp2.2\Composite.pdb
