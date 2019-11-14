@@ -1,0 +1,17 @@
+C:\Users\cmateias\source\repos\DesignPatternsProject\Decorator.Tests\bin\Debug\netcoreapp2.2\NUnit3.TestAdapter.dll
+C:\Users\cmateias\source\repos\DesignPatternsProject\Decorator.Tests\bin\Debug\netcoreapp2.2\NUnit3.TestAdapter.pdb
+C:\Users\cmateias\source\repos\DesignPatternsProject\Decorator.Tests\bin\Debug\netcoreapp2.2\nunit.engine.netstandard.dll
+C:\Users\cmateias\source\repos\DesignPatternsProject\Decorator.Tests\bin\Debug\netcoreapp2.2\Decorator.Tests.deps.json
+C:\Users\cmateias\source\repos\DesignPatternsProject\Decorator.Tests\bin\Debug\netcoreapp2.2\Decorator.Tests.runtimeconfig.json
+C:\Users\cmateias\source\repos\DesignPatternsProject\Decorator.Tests\bin\Debug\netcoreapp2.2\Decorator.Tests.runtimeconfig.dev.json
+C:\Users\cmateias\source\repos\DesignPatternsProject\Decorator.Tests\bin\Debug\netcoreapp2.2\Decorator.Tests.dll
+C:\Users\cmateias\source\repos\DesignPatternsProject\Decorator.Tests\bin\Debug\netcoreapp2.2\Decorator.Tests.pdb
+C:\Users\cmateias\source\repos\DesignPatternsProject\Decorator.Tests\bin\Debug\netcoreapp2.2\Decorator.dll
+C:\Users\cmateias\source\repos\DesignPatternsProject\Decorator.Tests\bin\Debug\netcoreapp2.2\Decorator.pdb
+C:\Users\cmateias\source\repos\DesignPatternsProject\Decorator.Tests\obj\Debug\netcoreapp2.2\Decorator.Tests.csprojAssemblyReference.cache
+C:\Users\cmateias\source\repos\DesignPatternsProject\Decorator.Tests\obj\Debug\netcoreapp2.2\Decorator.Tests.csproj.CoreCompileInputs.cache
+C:\Users\cmateias\source\repos\DesignPatternsProject\Decorator.Tests\obj\Debug\netcoreapp2.2\Decorator.Tests.AssemblyInfoInputs.cache
+C:\Users\cmateias\source\repos\DesignPatternsProject\Decorator.Tests\obj\Debug\netcoreapp2.2\Decorator.Tests.AssemblyInfo.cs
+C:\Users\cmateias\source\repos\DesignPatternsProject\Decorator.Tests\obj\Debug\netcoreapp2.2\Decorator.Tests.csproj.CopyComplete
+C:\Users\cmateias\source\repos\DesignPatternsProject\Decorator.Tests\obj\Debug\netcoreapp2.2\Decorator.Tests.dll
+C:\Users\cmateias\source\repos\DesignPatternsProject\Decorator.Tests\obj\Debug\netcoreapp2.2\Decorator.Tests.pdb
