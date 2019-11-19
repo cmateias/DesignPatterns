@@ -1,0 +1,64 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\cmateias\\source\\repos\\DesignPatternsProject\\Abstract\\Abstract.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\cmateias\\source\\repos\\DesignPatternsProject\\Abstract\\Abstract.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\cmateias\\source\\repos\\DesignPatternsProject\\Abstract\\Abstract.csproj",
+        "projectName": "Abstract",
+        "projectPath": "C:\\Users\\cmateias\\source\\repos\\DesignPatternsProject\\Abstract\\Abstract.csproj",
+        "packagesPath": "C:\\Users\\cmateias\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\cmateias\\source\\repos\\DesignPatternsProject\\Abstract\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\cmateias\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Projects\\LocalNuget": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://packages.uk.deptagency.com/nuget/buildingblocksnuget/": {},
+          "https://pkgs.dev.azure.com/aaretje/_packaging/JotunPackages/nuget/v3/index.json": {},
+          "https://sitecore.myget.org/F/sc-packages/api/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}
