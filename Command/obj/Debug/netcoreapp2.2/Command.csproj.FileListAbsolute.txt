@@ -1,0 +1,10 @@
+C:\Users\cmateias\source\repos\DesignPatternsProject\Command\bin\Debug\netcoreapp2.2\Command.deps.json
+C:\Users\cmateias\source\repos\DesignPatternsProject\Command\bin\Debug\netcoreapp2.2\Command.runtimeconfig.json
+C:\Users\cmateias\source\repos\DesignPatternsProject\Command\bin\Debug\netcoreapp2.2\Command.runtimeconfig.dev.json
+C:\Users\cmateias\source\repos\DesignPatternsProject\Command\bin\Debug\netcoreapp2.2\Command.dll
+C:\Users\cmateias\source\repos\DesignPatternsProject\Command\bin\Debug\netcoreapp2.2\Command.pdb
+C:\Users\cmateias\source\repos\DesignPatternsProject\Command\obj\Debug\netcoreapp2.2\Command.csproj.CoreCompileInputs.cache
+C:\Users\cmateias\source\repos\DesignPatternsProject\Command\obj\Debug\netcoreapp2.2\Command.AssemblyInfoInputs.cache
+C:\Users\cmateias\source\repos\DesignPatternsProject\Command\obj\Debug\netcoreapp2.2\Command.AssemblyInfo.cs
+C:\Users\cmateias\source\repos\DesignPatternsProject\Command\obj\Debug\netcoreapp2.2\Command.dll
+C:\Users\cmateias\source\repos\DesignPatternsProject\Command\obj\Debug\netcoreapp2.2\Command.pdb
