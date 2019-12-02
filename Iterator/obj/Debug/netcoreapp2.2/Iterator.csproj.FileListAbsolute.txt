@@ -1,0 +1,11 @@
+C:\Users\cmateias\source\repos\DesignPatternsProject\Iterator\obj\Debug\netcoreapp2.2\Iterator.csprojAssemblyReference.cache
+C:\Users\cmateias\source\repos\DesignPatternsProject\Iterator\obj\Debug\netcoreapp2.2\Iterator.csproj.CoreCompileInputs.cache
+C:\Users\cmateias\source\repos\DesignPatternsProject\Iterator\obj\Debug\netcoreapp2.2\Iterator.AssemblyInfoInputs.cache
+C:\Users\cmateias\source\repos\DesignPatternsProject\Iterator\obj\Debug\netcoreapp2.2\Iterator.AssemblyInfo.cs
+C:\Users\cmateias\source\repos\DesignPatternsProject\Iterator\bin\Debug\netcoreapp2.2\Iterator.deps.json
+C:\Users\cmateias\source\repos\DesignPatternsProject\Iterator\bin\Debug\netcoreapp2.2\Iterator.runtimeconfig.json
+C:\Users\cmateias\source\repos\DesignPatternsProject\Iterator\bin\Debug\netcoreapp2.2\Iterator.runtimeconfig.dev.json
+C:\Users\cmateias\source\repos\DesignPatternsProject\Iterator\bin\Debug\netcoreapp2.2\Iterator.dll
+C:\Users\cmateias\source\repos\DesignPatternsProject\Iterator\bin\Debug\netcoreapp2.2\Iterator.pdb
+C:\Users\cmateias\source\repos\DesignPatternsProject\Iterator\obj\Debug\netcoreapp2.2\Iterator.dll
+C:\Users\cmateias\source\repos\DesignPatternsProject\Iterator\obj\Debug\netcoreapp2.2\Iterator.pdb
