@@ -1,0 +1,10 @@
+C:\Users\cmateias\source\repos\DesignPatternsProject\Prototype\obj\Debug\netcoreapp3.1\Prototype.AssemblyInfoInputs.cache
+C:\Users\cmateias\source\repos\DesignPatternsProject\Prototype\obj\Debug\netcoreapp3.1\Prototype.AssemblyInfo.cs
+C:\Users\cmateias\source\repos\DesignPatternsProject\Prototype\bin\Debug\netcoreapp3.1\Prototype.exe
+C:\Users\cmateias\source\repos\DesignPatternsProject\Prototype\bin\Debug\netcoreapp3.1\Prototype.deps.json
+C:\Users\cmateias\source\repos\DesignPatternsProject\Prototype\bin\Debug\netcoreapp3.1\Prototype.runtimeconfig.json
+C:\Users\cmateias\source\repos\DesignPatternsProject\Prototype\bin\Debug\netcoreapp3.1\Prototype.runtimeconfig.dev.json
+C:\Users\cmateias\source\repos\DesignPatternsProject\Prototype\bin\Debug\netcoreapp3.1\Prototype.dll
+C:\Users\cmateias\source\repos\DesignPatternsProject\Prototype\bin\Debug\netcoreapp3.1\Prototype.pdb
+C:\Users\cmateias\source\repos\DesignPatternsProject\Prototype\obj\Debug\netcoreapp3.1\Prototype.dll
+C:\Users\cmateias\source\repos\DesignPatternsProject\Prototype\obj\Debug\netcoreapp3.1\Prototype.pdb
