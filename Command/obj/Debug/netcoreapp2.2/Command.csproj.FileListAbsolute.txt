@@ -3,7 +3,7 @@ C:\Users\cmateias\source\repos\DesignPatternsProject\Command\bin\Debug\netcoreap
 C:\Users\cmateias\source\repos\DesignPatternsProject\Command\bin\Debug\netcoreapp2.2\Command.runtimeconfig.dev.json
 C:\Users\cmateias\source\repos\DesignPatternsProject\Command\bin\Debug\netcoreapp2.2\Command.dll
 C:\Users\cmateias\source\repos\DesignPatternsProject\Command\bin\Debug\netcoreapp2.2\Command.pdb
-C:\Users\cmateias\source\repos\DesignPatternsProject\Command\obj\Debug\netcoreapp2.2\Command.csproj.CoreCompileInputs.cache
+C:\Users\cmateias\source\repos\DesignPatternsProject\Command\obj\Debug\netcoreapp2.2\Command.csprojAssemblyReference.cache
 C:\Users\cmateias\source\repos\DesignPatternsProject\Command\obj\Debug\netcoreapp2.2\Command.AssemblyInfoInputs.cache
 C:\Users\cmateias\source\repos\DesignPatternsProject\Command\obj\Debug\netcoreapp2.2\Command.AssemblyInfo.cs
 C:\Users\cmateias\source\repos\DesignPatternsProject\Command\obj\Debug\netcoreapp2.2\Command.dll

@@ -4,7 +4,6 @@ C:\Users\cmateias\source\repos\DesignPatternsProject\Abstract\bin\Debug\netcorea
 C:\Users\cmateias\source\repos\DesignPatternsProject\Abstract\bin\Debug\netcoreapp2.2\Abstract.dll
 C:\Users\cmateias\source\repos\DesignPatternsProject\Abstract\bin\Debug\netcoreapp2.2\Abstract.pdb
 C:\Users\cmateias\source\repos\DesignPatternsProject\Abstract\obj\Debug\netcoreapp2.2\Abstract.csprojAssemblyReference.cache
-C:\Users\cmateias\source\repos\DesignPatternsProject\Abstract\obj\Debug\netcoreapp2.2\Abstract.csproj.CoreCompileInputs.cache
 C:\Users\cmateias\source\repos\DesignPatternsProject\Abstract\obj\Debug\netcoreapp2.2\Abstract.AssemblyInfoInputs.cache
 C:\Users\cmateias\source\repos\DesignPatternsProject\Abstract\obj\Debug\netcoreapp2.2\Abstract.AssemblyInfo.cs
 C:\Users\cmateias\source\repos\DesignPatternsProject\Abstract\obj\Debug\netcoreapp2.2\Abstract.dll

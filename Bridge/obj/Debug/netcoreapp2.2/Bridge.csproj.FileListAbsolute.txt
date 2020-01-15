@@ -3,7 +3,7 @@ C:\Users\cmateias\source\repos\DesignPatternsProject\Bridge\bin\Debug\netcoreapp
 C:\Users\cmateias\source\repos\DesignPatternsProject\Bridge\bin\Debug\netcoreapp2.2\Bridge.runtimeconfig.dev.json
 C:\Users\cmateias\source\repos\DesignPatternsProject\Bridge\bin\Debug\netcoreapp2.2\Bridge.dll
 C:\Users\cmateias\source\repos\DesignPatternsProject\Bridge\bin\Debug\netcoreapp2.2\Bridge.pdb
-C:\Users\cmateias\source\repos\DesignPatternsProject\Bridge\obj\Debug\netcoreapp2.2\Bridge.csproj.CoreCompileInputs.cache
+C:\Users\cmateias\source\repos\DesignPatternsProject\Bridge\obj\Debug\netcoreapp2.2\Bridge.csprojAssemblyReference.cache
 C:\Users\cmateias\source\repos\DesignPatternsProject\Bridge\obj\Debug\netcoreapp2.2\Bridge.AssemblyInfoInputs.cache
 C:\Users\cmateias\source\repos\DesignPatternsProject\Bridge\obj\Debug\netcoreapp2.2\Bridge.AssemblyInfo.cs
 C:\Users\cmateias\source\repos\DesignPatternsProject\Bridge\obj\Debug\netcoreapp2.2\Bridge.dll

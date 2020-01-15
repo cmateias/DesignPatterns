@@ -9,7 +9,6 @@ C:\Users\cmateias\source\repos\DesignPatternsProject\Decorator.Tests\bin\Debug\n
 C:\Users\cmateias\source\repos\DesignPatternsProject\Decorator.Tests\bin\Debug\netcoreapp2.2\Decorator.dll
 C:\Users\cmateias\source\repos\DesignPatternsProject\Decorator.Tests\bin\Debug\netcoreapp2.2\Decorator.pdb
 C:\Users\cmateias\source\repos\DesignPatternsProject\Decorator.Tests\obj\Debug\netcoreapp2.2\Decorator.Tests.csprojAssemblyReference.cache
-C:\Users\cmateias\source\repos\DesignPatternsProject\Decorator.Tests\obj\Debug\netcoreapp2.2\Decorator.Tests.csproj.CoreCompileInputs.cache
 C:\Users\cmateias\source\repos\DesignPatternsProject\Decorator.Tests\obj\Debug\netcoreapp2.2\Decorator.Tests.AssemblyInfoInputs.cache
 C:\Users\cmateias\source\repos\DesignPatternsProject\Decorator.Tests\obj\Debug\netcoreapp2.2\Decorator.Tests.AssemblyInfo.cs
 C:\Users\cmateias\source\repos\DesignPatternsProject\Decorator.Tests\obj\Debug\netcoreapp2.2\Decorator.Tests.csproj.CopyComplete

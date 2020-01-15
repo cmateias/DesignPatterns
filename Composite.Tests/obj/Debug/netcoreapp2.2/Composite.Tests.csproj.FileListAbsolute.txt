@@ -29,7 +29,6 @@ C:\Users\cmateias\source\repos\DesignPatternsProject\Composite.Tests\bin\Debug\n
 C:\Users\cmateias\source\repos\DesignPatternsProject\Composite.Tests\bin\Debug\netcoreapp2.2\Composite.dll
 C:\Users\cmateias\source\repos\DesignPatternsProject\Composite.Tests\bin\Debug\netcoreapp2.2\Composite.pdb
 C:\Users\cmateias\source\repos\DesignPatternsProject\Composite.Tests\obj\Debug\netcoreapp2.2\Composite.Tests.csprojAssemblyReference.cache
-C:\Users\cmateias\source\repos\DesignPatternsProject\Composite.Tests\obj\Debug\netcoreapp2.2\Composite.Tests.csproj.CoreCompileInputs.cache
 C:\Users\cmateias\source\repos\DesignPatternsProject\Composite.Tests\obj\Debug\netcoreapp2.2\Composite.Tests.AssemblyInfoInputs.cache
 C:\Users\cmateias\source\repos\DesignPatternsProject\Composite.Tests\obj\Debug\netcoreapp2.2\Composite.Tests.AssemblyInfo.cs
 C:\Users\cmateias\source\repos\DesignPatternsProject\Composite.Tests\obj\Debug\netcoreapp2.2\Composite.Tests.csproj.CopyComplete

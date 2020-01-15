@@ -10,7 +10,6 @@ C:\Users\cmateias\source\repos\DesignPatternsProject\Strategy.Tests\bin\Debug\ne
 C:\Users\cmateias\source\repos\DesignPatternsProject\Strategy.Tests\bin\Debug\netcoreapp2.2\Strategy.dll
 C:\Users\cmateias\source\repos\DesignPatternsProject\Strategy.Tests\bin\Debug\netcoreapp2.2\Strategy.pdb
 C:\Users\cmateias\source\repos\DesignPatternsProject\Strategy.Tests\obj\Debug\netcoreapp2.2\Strategy.Tests.csprojAssemblyReference.cache
-C:\Users\cmateias\source\repos\DesignPatternsProject\Strategy.Tests\obj\Debug\netcoreapp2.2\Strategy.Tests.csproj.CoreCompileInputs.cache
 C:\Users\cmateias\source\repos\DesignPatternsProject\Strategy.Tests\obj\Debug\netcoreapp2.2\Strategy.Tests.AssemblyInfoInputs.cache
 C:\Users\cmateias\source\repos\DesignPatternsProject\Strategy.Tests\obj\Debug\netcoreapp2.2\Strategy.Tests.AssemblyInfo.cs
 C:\Users\cmateias\source\repos\DesignPatternsProject\Strategy.Tests\obj\Debug\netcoreapp2.2\Strategy.Tests.csproj.CopyComplete
