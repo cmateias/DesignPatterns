@@ -1,0 +1,11 @@
+C:\Users\cmateias\source\repos\DesignPatternsProject\Adapter\obj\Debug\netcoreapp3.1\Adapter.csprojAssemblyReference.cache
+C:\Users\cmateias\source\repos\DesignPatternsProject\Adapter\obj\Debug\netcoreapp3.1\Adapter.AssemblyInfoInputs.cache
+C:\Users\cmateias\source\repos\DesignPatternsProject\Adapter\obj\Debug\netcoreapp3.1\Adapter.AssemblyInfo.cs
+C:\Users\cmateias\source\repos\DesignPatternsProject\Adapter\bin\Debug\netcoreapp3.1\Adapter.exe
+C:\Users\cmateias\source\repos\DesignPatternsProject\Adapter\bin\Debug\netcoreapp3.1\Adapter.deps.json
+C:\Users\cmateias\source\repos\DesignPatternsProject\Adapter\bin\Debug\netcoreapp3.1\Adapter.runtimeconfig.json
+C:\Users\cmateias\source\repos\DesignPatternsProject\Adapter\bin\Debug\netcoreapp3.1\Adapter.runtimeconfig.dev.json
+C:\Users\cmateias\source\repos\DesignPatternsProject\Adapter\bin\Debug\netcoreapp3.1\Adapter.dll
+C:\Users\cmateias\source\repos\DesignPatternsProject\Adapter\bin\Debug\netcoreapp3.1\Adapter.pdb
+C:\Users\cmateias\source\repos\DesignPatternsProject\Adapter\obj\Debug\netcoreapp3.1\Adapter.dll
+C:\Users\cmateias\source\repos\DesignPatternsProject\Adapter\obj\Debug\netcoreapp3.1\Adapter.pdb
