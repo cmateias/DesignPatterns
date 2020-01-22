@@ -1,0 +1,10 @@
+C:\Users\cmateias\source\repos\DesignPatternsProject\FactoryMethod\bin\Debug\netcoreapp3.1\FactoryMethod.exe
+C:\Users\cmateias\source\repos\DesignPatternsProject\FactoryMethod\bin\Debug\netcoreapp3.1\FactoryMethod.deps.json
+C:\Users\cmateias\source\repos\DesignPatternsProject\FactoryMethod\bin\Debug\netcoreapp3.1\FactoryMethod.runtimeconfig.json
+C:\Users\cmateias\source\repos\DesignPatternsProject\FactoryMethod\bin\Debug\netcoreapp3.1\FactoryMethod.runtimeconfig.dev.json
+C:\Users\cmateias\source\repos\DesignPatternsProject\FactoryMethod\bin\Debug\netcoreapp3.1\FactoryMethod.dll
+C:\Users\cmateias\source\repos\DesignPatternsProject\FactoryMethod\bin\Debug\netcoreapp3.1\FactoryMethod.pdb
+C:\Users\cmateias\source\repos\DesignPatternsProject\FactoryMethod\obj\Debug\netcoreapp3.1\FactoryMethod.AssemblyInfoInputs.cache
+C:\Users\cmateias\source\repos\DesignPatternsProject\FactoryMethod\obj\Debug\netcoreapp3.1\FactoryMethod.AssemblyInfo.cs
+C:\Users\cmateias\source\repos\DesignPatternsProject\FactoryMethod\obj\Debug\netcoreapp3.1\FactoryMethod.dll
+C:\Users\cmateias\source\repos\DesignPatternsProject\FactoryMethod\obj\Debug\netcoreapp3.1\FactoryMethod.pdb
