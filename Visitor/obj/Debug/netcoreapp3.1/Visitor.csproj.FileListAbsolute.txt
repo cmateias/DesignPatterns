@@ -1,0 +1,11 @@
+C:\Users\cmateias\source\repos\DesignPatternsProject\Visitor\bin\Debug\netcoreapp3.1\Visitor.exe
+C:\Users\cmateias\source\repos\DesignPatternsProject\Visitor\bin\Debug\netcoreapp3.1\Visitor.deps.json
+C:\Users\cmateias\source\repos\DesignPatternsProject\Visitor\bin\Debug\netcoreapp3.1\Visitor.runtimeconfig.json
+C:\Users\cmateias\source\repos\DesignPatternsProject\Visitor\bin\Debug\netcoreapp3.1\Visitor.runtimeconfig.dev.json
+C:\Users\cmateias\source\repos\DesignPatternsProject\Visitor\bin\Debug\netcoreapp3.1\Visitor.dll
+C:\Users\cmateias\source\repos\DesignPatternsProject\Visitor\bin\Debug\netcoreapp3.1\Visitor.pdb
+C:\Users\cmateias\source\repos\DesignPatternsProject\Visitor\obj\Debug\netcoreapp3.1\Visitor.csprojAssemblyReference.cache
+C:\Users\cmateias\source\repos\DesignPatternsProject\Visitor\obj\Debug\netcoreapp3.1\Visitor.AssemblyInfoInputs.cache
+C:\Users\cmateias\source\repos\DesignPatternsProject\Visitor\obj\Debug\netcoreapp3.1\Visitor.AssemblyInfo.cs
+C:\Users\cmateias\source\repos\DesignPatternsProject\Visitor\obj\Debug\netcoreapp3.1\Visitor.dll
+C:\Users\cmateias\source\repos\DesignPatternsProject\Visitor\obj\Debug\netcoreapp3.1\Visitor.pdb
