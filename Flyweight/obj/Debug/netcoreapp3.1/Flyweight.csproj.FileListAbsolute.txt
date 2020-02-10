@@ -1,0 +1,10 @@
+C:\Users\cmateias\source\repos\DesignPatternsProject\Flyweight\bin\Debug\netcoreapp3.1\Flyweight.exe
+C:\Users\cmateias\source\repos\DesignPatternsProject\Flyweight\bin\Debug\netcoreapp3.1\Flyweight.deps.json
+C:\Users\cmateias\source\repos\DesignPatternsProject\Flyweight\bin\Debug\netcoreapp3.1\Flyweight.runtimeconfig.json
+C:\Users\cmateias\source\repos\DesignPatternsProject\Flyweight\bin\Debug\netcoreapp3.1\Flyweight.runtimeconfig.dev.json
+C:\Users\cmateias\source\repos\DesignPatternsProject\Flyweight\bin\Debug\netcoreapp3.1\Flyweight.dll
+C:\Users\cmateias\source\repos\DesignPatternsProject\Flyweight\bin\Debug\netcoreapp3.1\Flyweight.pdb
+C:\Users\cmateias\source\repos\DesignPatternsProject\Flyweight\obj\Debug\netcoreapp3.1\Flyweight.AssemblyInfoInputs.cache
+C:\Users\cmateias\source\repos\DesignPatternsProject\Flyweight\obj\Debug\netcoreapp3.1\Flyweight.AssemblyInfo.cs
+C:\Users\cmateias\source\repos\DesignPatternsProject\Flyweight\obj\Debug\netcoreapp3.1\Flyweight.dll
+C:\Users\cmateias\source\repos\DesignPatternsProject\Flyweight\obj\Debug\netcoreapp3.1\Flyweight.pdb

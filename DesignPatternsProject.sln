@@ -35,7 +35,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Factory", "Factory\Factory.
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FactoryMethod", "FactoryMethod\FactoryMethod.csproj", "{74386E72-46AF-47AD-88FC-7BB75B1164D9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Visitor", "Visitor\Visitor.csproj", "{BBFDDBBE-C09A-44BF-A742-F484B5BDD677}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Visitor", "Visitor\Visitor.csproj", "{BBFDDBBE-C09A-44BF-A742-F484B5BDD677}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Flyweight", "Flyweight\Flyweight.csproj", "{BA332596-12F7-4CE8-B3C2-EF5CE32DE9EE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Proxy", "Proxy\Proxy.csproj", "{138CC109-3761-4074-8874-ACF3E0C3FF9B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -111,6 +115,14 @@ Global
 		{BBFDDBBE-C09A-44BF-A742-F484B5BDD677}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BBFDDBBE-C09A-44BF-A742-F484B5BDD677}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BBFDDBBE-C09A-44BF-A742-F484B5BDD677}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BA332596-12F7-4CE8-B3C2-EF5CE32DE9EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BA332596-12F7-4CE8-B3C2-EF5CE32DE9EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BA332596-12F7-4CE8-B3C2-EF5CE32DE9EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BA332596-12F7-4CE8-B3C2-EF5CE32DE9EE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{138CC109-3761-4074-8874-ACF3E0C3FF9B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{138CC109-3761-4074-8874-ACF3E0C3FF9B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{138CC109-3761-4074-8874-ACF3E0C3FF9B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{138CC109-3761-4074-8874-ACF3E0C3FF9B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
