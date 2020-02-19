@@ -1,0 +1,10 @@
+C:\Users\cmateias\source\repos\DesignPatternsProject\ChainOfResponsibility\bin\Debug\netcoreapp3.1\ChainOfResponsibility.exe
+C:\Users\cmateias\source\repos\DesignPatternsProject\ChainOfResponsibility\bin\Debug\netcoreapp3.1\ChainOfResponsibility.deps.json
+C:\Users\cmateias\source\repos\DesignPatternsProject\ChainOfResponsibility\bin\Debug\netcoreapp3.1\ChainOfResponsibility.runtimeconfig.json
+C:\Users\cmateias\source\repos\DesignPatternsProject\ChainOfResponsibility\bin\Debug\netcoreapp3.1\ChainOfResponsibility.runtimeconfig.dev.json
+C:\Users\cmateias\source\repos\DesignPatternsProject\ChainOfResponsibility\bin\Debug\netcoreapp3.1\ChainOfResponsibility.dll
+C:\Users\cmateias\source\repos\DesignPatternsProject\ChainOfResponsibility\bin\Debug\netcoreapp3.1\ChainOfResponsibility.pdb
+C:\Users\cmateias\source\repos\DesignPatternsProject\ChainOfResponsibility\obj\Debug\netcoreapp3.1\ChainOfResponsibility.AssemblyInfoInputs.cache
+C:\Users\cmateias\source\repos\DesignPatternsProject\ChainOfResponsibility\obj\Debug\netcoreapp3.1\ChainOfResponsibility.AssemblyInfo.cs
+C:\Users\cmateias\source\repos\DesignPatternsProject\ChainOfResponsibility\obj\Debug\netcoreapp3.1\ChainOfResponsibility.dll
+C:\Users\cmateias\source\repos\DesignPatternsProject\ChainOfResponsibility\obj\Debug\netcoreapp3.1\ChainOfResponsibility.pdb

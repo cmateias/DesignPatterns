@@ -1,0 +1,11 @@
+C:\Users\cmateias\source\repos\DesignPatternsProject\Interpreter\obj\Debug\netcoreapp3.1\Interpreter.csprojAssemblyReference.cache
+C:\Users\cmateias\source\repos\DesignPatternsProject\Interpreter\obj\Debug\netcoreapp3.1\Interpreter.AssemblyInfoInputs.cache
+C:\Users\cmateias\source\repos\DesignPatternsProject\Interpreter\obj\Debug\netcoreapp3.1\Interpreter.AssemblyInfo.cs
+C:\Users\cmateias\source\repos\DesignPatternsProject\Interpreter\bin\Debug\netcoreapp3.1\Interpreter.exe
+C:\Users\cmateias\source\repos\DesignPatternsProject\Interpreter\bin\Debug\netcoreapp3.1\Interpreter.deps.json
+C:\Users\cmateias\source\repos\DesignPatternsProject\Interpreter\bin\Debug\netcoreapp3.1\Interpreter.runtimeconfig.json
+C:\Users\cmateias\source\repos\DesignPatternsProject\Interpreter\bin\Debug\netcoreapp3.1\Interpreter.runtimeconfig.dev.json
+C:\Users\cmateias\source\repos\DesignPatternsProject\Interpreter\bin\Debug\netcoreapp3.1\Interpreter.dll
+C:\Users\cmateias\source\repos\DesignPatternsProject\Interpreter\bin\Debug\netcoreapp3.1\Interpreter.pdb
+C:\Users\cmateias\source\repos\DesignPatternsProject\Interpreter\obj\Debug\netcoreapp3.1\Interpreter.dll
+C:\Users\cmateias\source\repos\DesignPatternsProject\Interpreter\obj\Debug\netcoreapp3.1\Interpreter.pdb
