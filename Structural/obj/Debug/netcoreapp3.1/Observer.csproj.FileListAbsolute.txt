@@ -1,0 +1,12 @@
+C:\Users\cmateias\source\repos\DesignPatternsProject\Structural\bin\Debug\netcoreapp3.1\Observer.exe
+C:\Users\cmateias\source\repos\DesignPatternsProject\Structural\bin\Debug\netcoreapp3.1\Observer.deps.json
+C:\Users\cmateias\source\repos\DesignPatternsProject\Structural\bin\Debug\netcoreapp3.1\Observer.runtimeconfig.json
+C:\Users\cmateias\source\repos\DesignPatternsProject\Structural\bin\Debug\netcoreapp3.1\Observer.runtimeconfig.dev.json
+C:\Users\cmateias\source\repos\DesignPatternsProject\Structural\bin\Debug\netcoreapp3.1\Observer.dll
+C:\Users\cmateias\source\repos\DesignPatternsProject\Structural\bin\Debug\netcoreapp3.1\Observer.pdb
+C:\Users\cmateias\source\repos\DesignPatternsProject\Structural\obj\Debug\netcoreapp3.1\Observer.csproj.CoreCompileInputs.cache
+C:\Users\cmateias\source\repos\DesignPatternsProject\Structural\obj\Debug\netcoreapp3.1\Observer.AssemblyInfoInputs.cache
+C:\Users\cmateias\source\repos\DesignPatternsProject\Structural\obj\Debug\netcoreapp3.1\Observer.AssemblyInfo.cs
+C:\Users\cmateias\source\repos\DesignPatternsProject\Structural\obj\Debug\netcoreapp3.1\Observer.dll
+C:\Users\cmateias\source\repos\DesignPatternsProject\Structural\obj\Debug\netcoreapp3.1\Observer.pdb
+C:\Users\cmateias\source\repos\DesignPatternsProject\Structural\obj\Debug\netcoreapp3.1\Observer.genruntimeconfig.cache

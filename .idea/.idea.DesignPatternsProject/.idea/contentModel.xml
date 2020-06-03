@@ -1,0 +1,396 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\cmateias\.nuget\packages\microsoft.net.test.sdk\16.3.0\build\netcoreapp1.0" t="Include">
+      <e p="Microsoft.NET.Test.Sdk.Program.cs" t="Include" />
+    </e>
+    <e p="C:\Users\cmateias\.nuget\packages\microsoft.net.test.sdk\16.4.0\build\netcoreapp2.1" t="Include">
+      <e p="Microsoft.NET.Test.Sdk.Program.cs" t="Include" />
+    </e>
+    <e p="C:\Users\cmateias\.nuget\packages\microsoft.testplatform.testhost\16.3.0\build\netcoreapp2.1\x64\testhost.dll" t="Include" />
+    <e p="C:\Users\cmateias\.nuget\packages\microsoft.testplatform.testhost\16.3.0\build\netcoreapp2.1\x64\testhost.exe" t="Include" />
+    <e p="C:\Users\cmateias\.nuget\packages\microsoft.testplatform.testhost\16.4.0\build\netcoreapp2.1\x64\testhost.dll" t="Include" />
+    <e p="C:\Users\cmateias\.nuget\packages\microsoft.testplatform.testhost\16.4.0\build\netcoreapp2.1\x64\testhost.exe" t="Include" />
+    <e p="C:\Users\cmateias\.nuget\packages\nunit3testadapter\3.11.0\build\netcoreapp1.0\nunit.engine.netstandard.dll" t="Include" />
+    <e p="C:\Users\cmateias\.nuget\packages\nunit3testadapter\3.11.0\build\netcoreapp1.0\NUnit3.TestAdapter.dll" t="Include" />
+    <e p="C:\Users\cmateias\.nuget\packages\nunit3testadapter\3.11.0\build\netcoreapp1.0\NUnit3.TestAdapter.pdb" t="Include" />
+    <e p="C:\Users\cmateias\.nuget\packages\nunit3testadapter\3.15.1\build\netcoreapp2.0\nunit.engine.api.dll" t="Include" />
+    <e p="C:\Users\cmateias\.nuget\packages\nunit3testadapter\3.15.1\build\netcoreapp2.0\nunit.engine.dll" t="Include" />
+    <e p="C:\Users\cmateias\.nuget\packages\nunit3testadapter\3.15.1\build\netcoreapp2.0\NUnit3.TestAdapter.dll" t="Include" />
+    <e p="C:\Users\cmateias\.nuget\packages\nunit3testadapter\3.15.1\build\netcoreapp2.0\NUnit3.TestAdapter.pdb" t="Include" />
+    <e p="C:\Users\cmateias\.Rider2019.3\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\cmateias\.Rider2019.3\system\resharper-host\local\Transient\ReSharperHost\v193\SolutionCaches\_DesignPatternsProject.-2039077342.00" t="ExcludeRecursive" />
+    <e p="C:\Users\cmateias\source\repos\DesignPatternsProject" t="IncludeFlat">
+      <e p="Abstract" t="IncludeRecursive">
+        <e p="Abstract.csproj" t="IncludeRecursive" />
+        <e p="AnimalFactory.cs" t="Include" />
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="Cat.cs" t="Include" />
+        <e p="CreateObjects.cs" t="Include" />
+        <e p="Dog.cs" t="Include" />
+        <e p="IAnimal.cs" t="Include" />
+        <e p="LandAnimalFactory.cs" t="Include" />
+        <e p="Lion.cs" t="Include" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp2.2" t="Include">
+              <e p="Abstract.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Octopus.cs" t="Include" />
+        <e p="Program.cs" t="Include" />
+        <e p="SeaAnimalFactory.cs" t="Include" />
+        <e p="Shark.cs" t="Include" />
+      </e>
+      <e p="Adapter" t="IncludeRecursive">
+        <e p="Adapter.csproj" t="IncludeRecursive" />
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="CreateObjects.cs" t="Include" />
+        <e p="Employee.cs" t="Include" />
+        <e p="EmployeeAdapter.cs" t="Include" />
+        <e p="ITarget.cs" t="Include" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp3.1" t="Include">
+              <e p="Adapter.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Program.cs" t="Include" />
+        <e p="ThirdPartyBillingSystem.cs" t="Include" />
+      </e>
+      <e p="Bridge" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="Bridge.csproj" t="IncludeRecursive" />
+        <e p="Bulb.cs" t="Include" />
+        <e p="CreateObjects.cs" t="Include" />
+        <e p="IElectronicDevice.cs" t="Include" />
+        <e p="ISwitch.cs" t="Include" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp2.2" t="Include">
+              <e p="Bridge.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Program.cs" t="Include" />
+        <e p="Refrigerator.cs" t="Include" />
+        <e p="Switch.cs" t="Include" />
+      </e>
+      <e p="ChainOfResponsibility" t="IncludeRecursive">
+        <e p="ATM.cs" t="Include" />
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="ChainOfResponsibility.csproj" t="IncludeRecursive" />
+        <e p="CreateObject.cs" t="Include" />
+        <e p="FiveHundredHandler.cs" t="Include" />
+        <e p="Handler.cs" t="Include" />
+        <e p="HundredHandler.cs" t="Include" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp3.1" t="Include">
+              <e p="ChainOfResponsibility.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Program.cs" t="Include" />
+        <e p="TwoHundredHandler.cs" t="Include" />
+        <e p="TwoThousandHandler.cs" t="Include" />
+      </e>
+      <e p="Command" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="Command.csproj" t="IncludeRecursive" />
+        <e p="CreateObjects.cs" t="Include" />
+        <e p="ICommand.cs" t="Include" />
+        <e p="ModifyPrice.cs" t="Include" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp2.2" t="Include">
+              <e p="Command.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="PriceAction.cs" t="Include" />
+        <e p="Product.cs" t="Include" />
+        <e p="ProductCommand.cs" t="Include" />
+        <e p="Program.cs" t="Include" />
+      </e>
+      <e p="Composite" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="Composite.cs" t="Include" />
+        <e p="Composite.csproj" t="IncludeRecursive" />
+        <e p="CreateObjects.cs" t="Include" />
+        <e p="IComponent.cs" t="Include" />
+        <e p="Leaf.cs" t="Include" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp2.2" t="Include">
+              <e p="Composite.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Program.cs" t="Include" />
+      </e>
+      <e p="Composite.Tests" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="Composite.Tests.csproj" t="IncludeRecursive" />
+        <e p="CompositeTests.cs" t="Include" />
+        <e p="ConsoleOutput.cs" t="Include" />
+        <e p="LeafTests.cs" t="Include" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp2.2" t="Include">
+              <e p="Composite.Tests.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+      </e>
+      <e p="Decorator" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="CarDecorator.cs" t="Include" />
+        <e p="CreateObjects.cs" t="Include" />
+        <e p="Decorator.csproj" t="IncludeRecursive" />
+        <e p="DiscountedDecorator.cs" t="Include" />
+        <e p="ICar.cs" t="Include" />
+        <e p="Jaguar.cs" t="Include" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp2.2" t="Include">
+              <e p="Decorator.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Program.cs" t="Include" />
+        <e p="Vauxhall.cs" t="Include" />
+      </e>
+      <e p="Decorator.Tests" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="ConsoleOutput.cs" t="Include" />
+        <e p="CreateObjectsTests.cs" t="Include" />
+        <e p="Decorator.Tests.csproj" t="IncludeRecursive" />
+        <e p="DiscountedDecoratorTests.cs" t="Include" />
+        <e p="JaguarTests.cs" t="Include" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp2.2" t="Include">
+              <e p="Decorator.Tests.AssemblyInfo.cs" t="Include" />
+              <e p="Decorator.Tests.Program.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="VauxhallTests.cs" t="Include" />
+      </e>
+      <e p="DesignPatternsProject.sln" t="IncludeFlat" />
+      <e p="Facade" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="CreateObject.cs" t="Include" />
+        <e p="Facade.csproj" t="IncludeRecursive" />
+        <e p="Invoice.cs" t="Include" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp3.1" t="Include">
+              <e p="Facade.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Order.cs" t="Include" />
+        <e p="Payment.cs" t="Include" />
+        <e p="Product.cs" t="Include" />
+        <e p="Program.cs" t="Include" />
+      </e>
+      <e p="Factory" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="CreateObject.cs" t="Include" />
+        <e p="CreditCardFactory.cs" t="Include" />
+        <e p="Factory.csproj" t="IncludeRecursive" />
+        <e p="ICreditCard.cs" t="Include" />
+        <e p="MoneyBack.cs" t="Include" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp3.1" t="Include">
+              <e p="Factory.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Platinum.cs" t="Include" />
+        <e p="Program.cs" t="Include" />
+        <e p="Titanium.cs" t="Include" />
+      </e>
+      <e p="FactoryMethod" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="CreateObject.cs" t="Include" />
+        <e p="CreditCardFactory.cs" t="Include" />
+        <e p="FactoryMethod.csproj" t="IncludeRecursive" />
+        <e p="ICreditCard.cs" t="Include" />
+        <e p="MoneyBack.cs" t="Include" />
+        <e p="MoneyBackFactory.cs" t="Include" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp3.1" t="Include">
+              <e p="FactoryMethod.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Platinum.cs" t="Include" />
+        <e p="PlatinumFactory.cs" t="Include" />
+        <e p="Program.cs" t="Include" />
+        <e p="Titanium.cs" t="Include" />
+        <e p="TitaniumFactory.cs" t="Include" />
+      </e>
+      <e p="Flyweight" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="Circle.cs" t="Include" />
+        <e p="CreateObject.cs" t="Include" />
+        <e p="Flyweight.csproj" t="IncludeRecursive" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp3.1" t="Include">
+              <e p="Flyweight.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Program.cs" t="Include" />
+        <e p="Shape.cs" t="Include" />
+        <e p="ShapeFactory.cs" t="Include" />
+      </e>
+      <e p="Interpreter" t="IncludeRecursive">
+        <e p="AbstractExpression.cs" t="Include" />
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="Context.cs" t="Include" />
+        <e p="CreateObject.cs" t="Include" />
+        <e p="DayExpression.cs" t="Include" />
+        <e p="Interpreter.csproj" t="IncludeRecursive" />
+        <e p="MonthExpression.cs" t="Include" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp3.1" t="Include">
+              <e p="Interpreter.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Program.cs" t="Include" />
+        <e p="SeparatorExpression.cs" t="Include" />
+        <e p="YearExpression.cs" t="Include" />
+      </e>
+      <e p="Iterator" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="ConcreteCollection.cs" t="Include" />
+        <e p="CreateObject.cs" t="Include" />
+        <e p="Employee.cs" t="Include" />
+        <e p="ICollection.cs" t="Include" />
+        <e p="IIterator.cs" t="Include" />
+        <e p="Iterator.cs" t="Include" />
+        <e p="Iterator.csproj" t="IncludeRecursive" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp2.2" t="Include">
+              <e p="Iterator.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Program.cs" t="Include" />
+      </e>
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="Prototype" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="CreateObject.cs" t="Include" />
+        <e p="Employee.cs" t="Include" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp3.1" t="Include">
+              <e p="Prototype.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Program.cs" t="Include" />
+        <e p="Prototype.csproj" t="IncludeRecursive" />
+      </e>
+      <e p="Proxy" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="CreateObject.cs" t="Include" />
+        <e p="Employee.cs" t="Include" />
+        <e p="IImage.cs" t="Include" />
+        <e p="ISharedFolder.cs" t="Include" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp3.1" t="Include">
+              <e p="Proxy.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Program.cs" t="Include" />
+        <e p="Proxy.csproj" t="IncludeRecursive" />
+        <e p="ProxyImage.cs" t="Include" />
+        <e p="RealImage.cs" t="Include" />
+        <e p="SharedFolder.cs" t="Include" />
+        <e p="SharedFolderProxy.cs" t="Include" />
+      </e>
+      <e p="Singleton" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="CreateObjects.cs" t="Include" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp3.1" t="Include">
+              <e p="Singleton.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Program.cs" t="Include" />
+        <e p="Singleton.cs" t="Include" />
+        <e p="Singleton.csproj" t="IncludeRecursive" />
+      </e>
+      <e p="Strategy" t="IncludeRecursive">
+        <e p="AscendingSort.cs" t="Include" />
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="CreateObjects.cs" t="Include" />
+        <e p="DescendingSort.cs" t="Include" />
+        <e p="FakeSort.cs" t="Include" />
+        <e p="ISortStrategy.cs" t="Include" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp2.2" t="Include">
+              <e p="Strategy.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Program.cs" t="Include" />
+        <e p="SortedList.cs" t="Include" />
+        <e p="Strategy.csproj" t="IncludeRecursive" />
+      </e>
+      <e p="Strategy.Tests" t="IncludeRecursive">
+        <e p="AscendingSortTests.cs" t="Include" />
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="ConsoleOutput.cs" t="Include" />
+        <e p="DescendingSortTests.cs" t="Include" />
+        <e p="FakeSortTests.cs" t="Include" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp2.2" t="Include">
+              <e p="Strategy.Tests.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Strategy.Tests.csproj" t="IncludeRecursive" />
+      </e>
+      <e p="Visitor" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="CreateObject.cs" t="Include" />
+        <e p="Doctor.cs" t="Include" />
+        <e p="IElement.cs" t="Include" />
+        <e p="IVisitor.cs" t="Include" />
+        <e p="Kid.cs" t="Include" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp3.1" t="Include">
+              <e p="Visitor.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Program.cs" t="Include" />
+        <e p="Salesman.cs" t="Include" />
+        <e p="School.cs" t="Include" />
+        <e p="Visitor.csproj" t="IncludeRecursive" />
+      </e>
+    </e>
+  </component>
+</project>

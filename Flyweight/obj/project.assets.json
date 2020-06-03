@@ -33,7 +33,6 @@
       "sources": {
         "https://api.nuget.org/v3/index.json": {},
         "https://packages.uk.deptagency.com/nuget/buildingblocksnuget/": {},
-        "https://pkgs.dev.azure.com/aaretje/_packaging/JotunPackages/nuget/v3/index.json": {},
         "https://teamcity.uk.deptagency.com/guestAuth/app/nuget/v1/FeedService.svc/": {}
       },
       "frameworks": {
@@ -64,7 +63,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
       }
     }
   }

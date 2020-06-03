@@ -1,0 +1,12 @@
+C:\Users\cmateias\source\repos\DesignPatternsProject\ShallowCopy\bin\Debug\netcoreapp3.1\ShallowCopy.exe
+C:\Users\cmateias\source\repos\DesignPatternsProject\ShallowCopy\bin\Debug\netcoreapp3.1\ShallowCopy.deps.json
+C:\Users\cmateias\source\repos\DesignPatternsProject\ShallowCopy\bin\Debug\netcoreapp3.1\ShallowCopy.runtimeconfig.json
+C:\Users\cmateias\source\repos\DesignPatternsProject\ShallowCopy\bin\Debug\netcoreapp3.1\ShallowCopy.runtimeconfig.dev.json
+C:\Users\cmateias\source\repos\DesignPatternsProject\ShallowCopy\bin\Debug\netcoreapp3.1\ShallowCopy.dll
+C:\Users\cmateias\source\repos\DesignPatternsProject\ShallowCopy\bin\Debug\netcoreapp3.1\ShallowCopy.pdb
+C:\Users\cmateias\source\repos\DesignPatternsProject\ShallowCopy\obj\Debug\netcoreapp3.1\ShallowCopy.csproj.CoreCompileInputs.cache
+C:\Users\cmateias\source\repos\DesignPatternsProject\ShallowCopy\obj\Debug\netcoreapp3.1\ShallowCopy.AssemblyInfoInputs.cache
+C:\Users\cmateias\source\repos\DesignPatternsProject\ShallowCopy\obj\Debug\netcoreapp3.1\ShallowCopy.AssemblyInfo.cs
+C:\Users\cmateias\source\repos\DesignPatternsProject\ShallowCopy\obj\Debug\netcoreapp3.1\ShallowCopy.dll
+C:\Users\cmateias\source\repos\DesignPatternsProject\ShallowCopy\obj\Debug\netcoreapp3.1\ShallowCopy.pdb
+C:\Users\cmateias\source\repos\DesignPatternsProject\ShallowCopy\obj\Debug\netcoreapp3.1\ShallowCopy.genruntimeconfig.cache
